@@ -3,3 +3,5 @@ git push origin main
 git add"file name"
 
 git commit -m"you message"
+
+git remote add origin link
