@@ -5,3 +5,6 @@ git add"file name"
 git commit -m"you message"
 
 git remote add origin link
+
+
+git push -u origin main   # then git push kar skte baad mai
