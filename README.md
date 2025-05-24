@@ -4,8 +4,7 @@ This is my first GitHub repository
 Author-Siddharth (college)
 
 
-# Teacher
-Khapra
+
 
 # Student
 Siddharth Mishra 
